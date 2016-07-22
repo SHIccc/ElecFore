@@ -1,0 +1,22 @@
+Name of QuantLet : geocopula_emp
+
+Published in : MTS
+
+Description : 'Produces the plot for parametrically fitted variogram.'
+Keywords : 
+- graphical representation
+- plot 
+- time-series
+- data visualization
+- copula
+
+See also : 'geocopula_est, geocopula_par'
+
+Author : Weining Wang
+
+Submitted : Thur, June 30 2016 by Shi Chen
+
+Datafile : 'location_country.csv, five countries.RData'
+
+Example : 'The empirical fitted variogram by GeoCopula.'
+
